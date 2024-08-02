@@ -1,5 +1,5 @@
 # US-Debt-Project
-For this project I answered 3 questions regarding the United State's public and governemental debt.
+### For this project I answered 3 questions regarding the United State's public and governemental debt.
 
 I owe a lot to Alex Freburg for creating the [excel course](https://www.analystbuilder.com/courses/excel-for-data-analytics) on analyst builder that helped me make this project and develope my skills as a aspireing data analyst.
 
