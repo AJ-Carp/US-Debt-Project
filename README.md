@@ -3,7 +3,7 @@
 
 I owe a lot to Alex Freberg for creating the [excel course](https://www.analystbuilder.com/courses/excel-for-data-analytics) on analyst builder that helped me make this project and develop my skills as a aspiring data analyst.
 
-After cleaning and manipulating the data, these are the visualizations I made. Click [here](https://github.com/AJ-Carp/US-Debt-Project/blob/main/US%20Debt%20Project.xlsx) to see the real sheets where my raw and cleaned data, pivot tables and in-depth written conclusions are.
+After cleaning and manipulating the data, these are the visualizations I made. Click [HERE](https://github.com/AJ-Carp/US-Debt-Project/blob/main/US%20Debt%20Project.xlsx) to see the real sheets where my raw and cleaned data, pivot tables and in-depth written conclusions are.
 
 ### 1.  What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 ![Picture1](https://github.com/user-attachments/assets/3d4abaa4-0eef-4e09-b067-472e726496a1)
