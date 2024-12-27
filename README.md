@@ -1,8 +1,6 @@
 # US-Debt-Project 🇺🇸💰
 ### For this project I answered 3 questions regarding the United States public and governmental debt.
 
-I owe a lot to Alex Freberg for creating the [excel course](https://www.analystbuilder.com/courses/excel-for-data-analytics) on analyst builder that helped me make this project and develop my skills as a aspiring data analyst.
-
 After cleaning and manipulating the data, these are the visualizations I made. Click [HERE](https://github.com/AJ-Carp/US-Debt-Project/blob/main/US%20Debt%20Project.xlsx) to see the real sheets where my raw and cleaned data, pivot tables and in-depth written conclusions are.
 
 ### 1.  What was the Yearly Debt Percentage Increase for each year compared to the previous year?
